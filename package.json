@@ -1,0 +1,23 @@
+{
+  "name": "employee_summary_10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyjohncey/employee_summary_10.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andyjohncey/employee_summary_10/issues"
+  },
+  "homepage": "https://github.com/andyjohncey/employee_summary_10#readme"
+}
